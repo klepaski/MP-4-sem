@@ -1,0 +1,6 @@
+﻿  3.cpp
+  Salesman.cpp
+d:\2 учеба\мат. прога\мп для julia chist\3\3\salesman.cpp(58): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+d:\2 учеба\мат. прога\мп для julia chist\3\3\salesman.cpp(66): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  3.vcxproj -> D:\2 УЧЕБА\мат. прога\МП для Julia Chist\3\Debug\3.exe
