@@ -1,0 +1,3 @@
+﻿  MP1.cpp
+d:\2 учеба\мат. прога\mp1\mp1\mp1.cpp(24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  MP1.vcxproj -> D:\2 УЧЕБА\мат. прога\MP1\Debug\MP1.exe
